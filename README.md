@@ -6,7 +6,6 @@ Pierre é um protótipo de aplicativo tecnológico, que servirá de canal de com
 
 Este repositório foi criado para disponibilizar todos os artefatos construidos no desenvolvimento do projeto de TCC Pierre.
 
-[Pierre](&lt;https://www.figma.com/proto/NapGPT7Io6fN2yJ10PcazC/TCC---
-PACIENTE?scaling=scale-down&amp;node-id=1%3A13&gt;)
+[Pierre](https://www.figma.com/proto/NapGPT7Io6fN2yJ10PcazC/TCC--- PACIENTE?scaling=scale-down&node-id=1%3A13)
 
 
